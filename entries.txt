@@ -1,0 +1,80 @@
+Date: Wed Sep 30 22:24:47 2020
+Mood: Meh
+Activity: Exercise
+Entry: asdasd asd
+
+Date: Wed Sep 30 22:24:54 2020
+Mood: Good
+Activity: Friends
+Entry: asdasd asd
+
+Date: Wed Sep 30 22:26:20 2020
+Mood: Good
+Activity: Exercise
+Entry: asd asd asd
+
+Date: Wed Sep 30 22:54:36 2020
+Mood: Rad
+Activity: Family
+Entry: 1
+
+Date: Wed Sep 30 22:58:07 2020
+Mood: Meh
+Activity: Date
+Entry: 3
+
+Date: Thu Oct 01 01:01:02 2020
+Mood: Rad
+Activity: Friends
+Entry: HAAHAHHA
+
+Date: Thu Oct 01 01:07:27 2020
+Mood: Rad
+Activity: Friends
+Entry: WE ARE DONE YAY GR8 JOB PARTNER COULDNT HAVE DONE IT WITHOUT YOU LEGIT 
+
+Date: Thu Oct 01 18:31:12 2020
+Mood: Rad
+Activity: Family
+Entry: today is a happy day
+
+Date: Wed Sep 30 22:24:47 2020
+Mood: Meh
+Activity: Exercise
+Entry: asdasd asd
+
+Date: Wed Sep 30 22:24:54 2020
+Mood: Good
+Activity: Friends
+Entry: asdasd asd
+
+Date: Wed Sep 30 22:26:20 2020
+Mood: Good
+Activity: Exercise
+Entry: asd asd asd
+
+Date: Wed Sep 30 22:54:36 2020
+Mood: Rad
+Activity: Family
+Entry: 1
+
+Date: Wed Sep 30 22:58:07 2020
+Mood: Meh
+Activity: Date
+Entry: 3
+
+Date: Thu Oct 01 01:01:02 2020
+Mood: Rad
+Activity: Friends
+Entry: HAAHAHHA
+
+Date: Thu Oct 01 01:07:27 2020
+Mood: Rad
+Activity: Friends
+Entry: WE ARE DONE YAY GR8 JOB PARTNER COULDNT HAVE DONE IT WITHOUT YOU LEGIT 
+
+Date: Thu Oct 01 18:31:12 2020
+Mood: Rad
+Activity: Family
+Entry: today is a happy day
+
