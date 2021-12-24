@@ -84,7 +84,7 @@ unwanted deletions. After verification, the contents of the “initialAccount.tx
 will ask the user to create a new account as there will no longer be any recognizable saved 
 data in its directories.
 
-### Authors
+## Authors
 
 #### Arciella Brience C. Crisostomo [arciella_brience_crisostomo@dlsu.edu.ph]
 
