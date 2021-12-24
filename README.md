@@ -83,3 +83,9 @@ unwanted deletions. After verification, the contents of the “initialAccount.tx
 “entries.txt” text files are deleted and the program ends. Once started up again, the program 
 will ask the user to create a new account as there will no longer be any recognizable saved 
 data in its directories.
+
+### Authors
+
+#### Arciella Brience C. Crisostomo [arciella_brience_crisostomo@dlsu.edu.ph]
+
+#### Dustin Kyle D. Landicho [dustin_kyle_landicho@dlsu.edu.ph]
